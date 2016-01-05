@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Adwar Hachwa, Arabic and Syrian Political Writer</title>
+    <description>Adwar Hachwa is a Syrian political and literary writer involved in Middle Eastern politics since the 50s. He is the Temporary President of the Arabic Socalist Party.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jan 2016 17:14:26 -0500</pubDate>
-    <lastBuildDate>Tue, 05 Jan 2016 17:14:26 -0500</lastBuildDate>
+    <link>http://hachwa.com/</link>
+    <atom:link href="http://hachwa.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 05 Jan 2016 18:40:14 -0500</pubDate>
+    <lastBuildDate>Tue, 05 Jan 2016 18:40:14 -0500</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 05 Jan 2016 17:13:12 -0500</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/01/05/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/01/05/welcome-to-jekyll.html</guid>
+        <link>http://hachwa.com/jekyll/update/2016/01/05/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://hachwa.com/jekyll/update/2016/01/05/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
